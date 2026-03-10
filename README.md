@@ -3,7 +3,7 @@
 This project was created as part of the Udacity course to practice
 version control using Git and GitHub.
 
-This project analyzes bikeshare data from three US cities:
+This project angit startalyzes bikeshare data from three US cities:
 Chicago, New York City, and Washington. The program allows
 users to filter the data by city, month, and day to explore
 different statistics about bike trips.
@@ -12,6 +12,21 @@ different statistics about bike trips.
 
 The file `bikeshare_starter.py` is included as a sample script used for
 practicing version control operations such as commits, branches, and merges.
+
+## Installation
+
+To run the project you need Python and the following libraries:
+
+- pandas
+- numpy
+
+Install them using pip if necessary.
+
+## Usage
+
+Run the following command in the terminal:
+
+python bikeshare_starter.py
 
 ## Contribution guidelines
 
